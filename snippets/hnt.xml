@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Remove LineageOS repos -->
+    <remove-project name="LineageOS/android_build" />
+
+    <!-- Track my repos -->
+    <project path="build" name="LineageOS-mido/android_build" remote="github" revision="cm-14.1">
+        <copyfile src="core/root.mk" dest="Makefile" />
+    </project>
+</manifest>

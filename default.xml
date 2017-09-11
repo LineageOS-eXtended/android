@@ -512,4 +512,7 @@
   <!-- OMS support -->
   <include name="snippets/oms.xml" />
 
+  <!-- HNT repos -->
+  <include name="snippets/hnt.xml" />
+
 </manifest>
