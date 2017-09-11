@@ -3,10 +3,12 @@
     <!-- Remove LineageOS repos -->
     <remove-project name="LineageOS/android_build" />
     <remove-project name="LineageOS/cm_platform_sdk" />
+    <remove-project name="LineageOS/android_packages_apps_CMParts" />
 
     <!-- Track my repos -->
     <project path="build" name="LineageOS-mido/android_build" remote="github" revision="cm-14.1">
         <copyfile src="core/root.mk" dest="Makefile" />
     </project>
     <project path="vendor/cmsdk" name="LineageOS-mido/cm_platform_sdk" remote="github" revision="cm-14.1" />
+    <project path="packages/apps/CMParts" name="LineageOS-mido/android_packages_apps_CMParts" remote="github" revision="cm-14.1" />
 </manifest>
