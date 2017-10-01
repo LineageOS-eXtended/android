@@ -14,17 +14,17 @@
     <remove-project name="LineageOS/android_vendor_cm" />
 
     <!-- Track OMS repos -->
-    <project path="frameworks/base" name="LineageOS-mido/android_frameworks_base" />
-    <project path="frameworks/native" name="LineageOS-mido/android_frameworks_native" />
-    <project path="packages/apps/Contacts" name="LineageOS-mido/android_packages_apps_Contacts" />
-    <project path="packages/apps/ContactsCommon" name="LineageOS-mido/android_packages_apps_ContactsCommon" />
-    <project path="packages/apps/Dialer" name="LineageOS-mido/android_packages_apps_Dialer" />
-    <project path="packages/apps/ExactCalculator" name="LineageOS-mido/android_packages_apps_ExactCalculator" />
-    <project path="packages/apps/PackageInstaller" name="LineageOS-mido/android_packages_apps_PackageInstaller" />
-    <project path="packages/apps/PhoneCommon" name="LineageOS-mido/android_packages_apps_PhoneCommon" />
-    <project path="packages/apps/Settings" name="LineageOS-mido/android_packages_apps_Settings" />
-    <project path="system/sepolicy" name="LineageOS-mido/android_system_sepolicy" />
-    <project path="vendor/cm" name="LineageOS-mido/android_vendor_cm" />
+    <project path="frameworks/base" name="LineageOS-eXtended/android_frameworks_base" />
+    <project path="frameworks/native" name="LineageOS-eXtended/android_frameworks_native" />
+    <project path="packages/apps/Contacts" name="LineageOS-eXtended/android_packages_apps_Contacts" />
+    <project path="packages/apps/ContactsCommon" name="LineageOS-eXtended/android_packages_apps_ContactsCommon" />
+    <project path="packages/apps/Dialer" name="LineageOS-eXtended/android_packages_apps_Dialer" />
+    <project path="packages/apps/ExactCalculator" name="LineageOS-eXtended/android_packages_apps_ExactCalculator" />
+    <project path="packages/apps/PackageInstaller" name="LineageOS-eXtended/android_packages_apps_PackageInstaller" />
+    <project path="packages/apps/PhoneCommon" name="LineageOS-eXtended/android_packages_apps_PhoneCommon" />
+    <project path="packages/apps/Settings" name="LineageOS-eXtended/android_packages_apps_Settings" />
+    <project path="system/sepolicy" name="LineageOS-eXtended/android_system_sepolicy" />
+    <project path="vendor/cm" name="LineageOS-eXtended/android_vendor_cm" />
 
     <!-- Track ThemeInterfacer -->
     <project path="packages/services/ThemeInterfacer" name="substratum/interfacer" remote="github" revision="n-rootless" />

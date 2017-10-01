@@ -7,10 +7,10 @@
     <remove-project name="LineageOS/android_packages_services_Telephony" />
 
     <!-- Track my repos -->
-    <project path="build" name="LineageOS-mido/android_build" remote="github" revision="cm-14.1">
+    <project path="build" name="LineageOS-eXtended/android_build" remote="github" revision="cm-14.1">
         <copyfile src="core/root.mk" dest="Makefile" />
     </project>
-    <project path="vendor/cmsdk" name="LineageOS-mido/cm_platform_sdk" remote="github" revision="cm-14.1" />
-    <project path="packages/apps/CMParts" name="LineageOS-mido/android_packages_apps_CMParts" remote="github" revision="cm-14.1" />
-    <project path="packages/services/Telephony" name="LineageOS-mido/android_packages_services_Telephony" remote="github" revision="cm-14.1" />
+    <project path="vendor/cmsdk" name="LineageOS-eXtended/cm_platform_sdk" remote="github" revision="cm-14.1" />
+    <project path="packages/apps/CMParts" name="LineageOS-eXtended/android_packages_apps_CMParts" remote="github" revision="cm-14.1" />
+    <project path="packages/services/Telephony" name="LineageOS-eXtended/android_packages_services_Telephony" remote="github" revision="cm-14.1" />
 </manifest>
