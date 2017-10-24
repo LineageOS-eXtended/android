@@ -5,6 +5,7 @@
     <remove-project name="LineageOS/cm_platform_sdk" />
     <remove-project name="LineageOS/android_packages_apps_CMParts" />
     <remove-project name="LineageOS/android_packages_services_Telephony" />
+    <remove-project name="LineageOS/android_frameworks_av" />
 
     <!-- Track my repos -->
     <project path="build" name="LineageOS-eXtended/android_build" remote="github" revision="cm-14.1">
@@ -13,4 +14,5 @@
     <project path="vendor/cmsdk" name="LineageOS-eXtended/cm_platform_sdk" remote="github" revision="cm-14.1" />
     <project path="packages/apps/CMParts" name="LineageOS-eXtended/android_packages_apps_CMParts" remote="github" revision="cm-14.1" />
     <project path="packages/services/Telephony" name="LineageOS-eXtended/android_packages_services_Telephony" remote="github" revision="cm-14.1" />
+    <project path="frameworks/av" name="LineageOS-eXtended/android_frameworks_av" remote="github" revision="cm-14.1" />
 </manifest>
