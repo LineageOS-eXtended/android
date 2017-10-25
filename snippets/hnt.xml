@@ -15,4 +15,5 @@
     <project path="packages/apps/CMParts" name="LineageOS-eXtended/android_packages_apps_CMParts" remote="github" revision="cm-14.1" />
     <project path="packages/services/Telephony" name="LineageOS-eXtended/android_packages_services_Telephony" remote="github" revision="cm-14.1" />
     <project path="frameworks/av" name="LineageOS-eXtended/android_frameworks_av" remote="github" revision="cm-14.1" />
+    <project path="vendor/hnt" name="LineageOS-eXtended/android_vendor_hnt" remote="github" revision="cm-14.1" />
 </manifest>
