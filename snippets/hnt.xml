@@ -7,6 +7,7 @@
     <remove-project name="LineageOS/android_packages_services_Telephony" />
     <remove-project name="LineageOS/android_frameworks_av" />
     <remove-project name="LineageOS/android_packages_services_Telecomm" />
+    <remove-project name="LineageOS/android_packages_apps_Snap" />
 
     <!-- Track my repos -->
     <project path="build" name="LineageOS-eXtended/android_build" remote="github" revision="cm-14.1">
@@ -18,4 +19,5 @@
     <project path="frameworks/av" name="LineageOS-eXtended/android_frameworks_av" remote="github" revision="cm-14.1" />
     <project path="vendor/hnt" name="LineageOS-eXtended/android_vendor_hnt" remote="github" revision="cm-14.1" />
     <project path="packages/services/Telecomm" name="LineageOS-eXtended/android_packages_services_Telecomm" remote="github" revision="cm-14.1" />
+    <project path="packages/apps/Snap" name="LineageOS-eXtended/android_packages_apps_Snap" remote="github" revision="cm-14.1" />
 </manifest>
