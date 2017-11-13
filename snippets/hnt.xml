@@ -9,6 +9,7 @@
     <remove-project name="LineageOS/android_packages_services_Telecomm" />
     <remove-project name="LineageOS/android_packages_apps_Snap" />
     <remove-project name="LineageOS/android_packages_providers_MediaProvider" />
+    <remove-project name="LineageOS/android_system_core" />
 
     <!-- Track my repos -->
     <project path="build" name="LineageOS-eXtended/android_build" remote="github" revision="cm-14.1">
@@ -22,4 +23,5 @@
     <project path="packages/services/Telecomm" name="LineageOS-eXtended/android_packages_services_Telecomm" remote="github" revision="cm-14.1" />
     <project path="packages/apps/Snap" name="LineageOS-eXtended/android_packages_apps_Snap" remote="github" revision="cm-14.1" />
     <project path="packages/providers/MediaProvider" name="LineageOS-eXtended/android_packages_providers_MediaProvider" remote="github" revision="cm-14.1" />
+    <project path="system/core" name="LineageOS-eXtended/android_system_core" remote="github" revision="cm-14.1" />
 </manifest>
