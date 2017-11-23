@@ -27,6 +27,5 @@
     <project path="packages/providers/MediaProvider" name="LineageOS-eXtended/android_packages_providers_MediaProvider" remote="github" revision="cm-14.1" />
     <project path="system/core" name="LineageOS-eXtended/android_system_core" remote="github" revision="cm-14.1" />
     <project path="packages/apps/FMRadio" name="LineageOS-eXtended/android_packages_apps_FMRadio" remote="github" revision="cm-14.1" />
-    <project path="packages/apps/Launcher3" name="LineageOS-eXtended/android_packages_apps_Launcher3" remote="github" revision="cm-14.1" />
-    <project path="packages/apps/Trebuchet" name="LineageOS-eXtended/android_packages_apps_Trebuchet" remote="github" revision="cm-14.1" />
+    <project path="packages/apps/HnTLauncher" name="LineageOS-eXtended/android_packages_apps_HnTLauncher" remote="github" revision="cm-14.1" />
 </manifest>
