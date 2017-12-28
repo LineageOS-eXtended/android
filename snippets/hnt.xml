@@ -13,6 +13,7 @@
     <remove-project name="LineageOS/android_packages_apps_FMRadio" />
     <remove-project name="LineageOS/android_packages_apps_Trebuchet" />
     <remove-project name="LineageOS/android_packages_apps_DeskClock" />
+    <remove-project name="LineageOS/android_packages_apps_Eleven" />
 
     <!-- Track my repos -->
     <project path="build" name="LineageOS-eXtended/android_build" remote="github" revision="cm-14.1">
@@ -30,4 +31,5 @@
     <project path="packages/apps/FMRadio" name="LineageOS-eXtended/android_packages_apps_FMRadio" remote="github" revision="cm-14.1" />
     <project path="packages/apps/HnTLauncher" name="LineageOS-eXtended/android_packages_apps_HnTLauncher" remote="github" revision="cm-14.1" />
     <project path="packages/apps/DeskClock" name="LineageOS-eXtended/android_packages_apps_DeskClock" remote="github" revision="cm-14.1" />
+    <project path="packages/apps/Eleven" name="LineageOS-eXtended/android_packages_apps_Eleven" remote="github" revision="cm-14.1" />
 </manifest>
